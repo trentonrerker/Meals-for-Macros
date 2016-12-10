@@ -1,0 +1,29 @@
+
+.jumbotron, footer {
+  background-color: #0070bf;
+  color: white;
+  text-align: center;
+}
+.row {
+  width: 100%;
+  background-color: #efefef;
+  text-align: center;
+  color: black;
+}
+.form-inline, {
+  background-color: #efefef;
+  text-align: center;
+  width: 100%;
+}
+.form-control-lg {
+  border-radius: 6px;
+  text-align: center;
+}
+input:focus::-webkit-input-placeholder {
+    opacity: 0;
+}
+.btn {
+  background-color: orange;
+  color: white;
+  border: none;
+}
